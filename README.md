@@ -17,16 +17,22 @@ ___
 ___
 ## Technical Skills 📜
 <details><summary>
-Programming Languages<br> 
-Python<br> 
-R<br>
+<strong>Programming Languages</strong><br>
+<ul>
+  <li>Python</li>
+  <li>R</li>
+</ul>
 <details><summary>
-Data Analysis<br>   
-Pandas<br>  
-Excel<br>
+<strong>Data Analysis</strong><br>   
+<ul>
+  <li>Pandas</li>
+  <li>Excel</li>
+</ul>
 <details><summary>
-Data Visualization<br>  
-Seaborn<br> 
+<strong>Data Visualization</strong><br>  
+<ul>
+  <li>Seaborn</li>
+</ul>
 </summary></details>
 
 ___
