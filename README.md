@@ -7,7 +7,7 @@ ___
 ___
 
 ## About Me 👋
-I am an **Assistant Teaching Professor** and **Director of Undergraduate Studies - Minor in Data Science** at the **University of Notre Dame** 🏰. My work bridges the gap between **data science** 📊 and the **humanities** 📖, combining technical expertise with a deep interest in theology and biblical studies.
+I am a **Junior** studying **Political Science - Minor in Data Science | Business Economics | Sport, Media, and Culture** at the **University of Notre Dame** 🏰. My work bridges the gap between **data science** 📊 and the **social sciences** 📖, combining technical expertise with a deep interest in government, econonomy and culture.
 
 ___
 ## Education 🎓
