@@ -11,14 +11,11 @@ I am a **Junior** studying **Political Science - Minor in Data Science | Busines
 
 ___
 ## Education 🎓
-- **Doctor of Philosophy (In Progress)** - Vrije Universiteit Amsterdam
-- **Master of Science in Data Science** - University of Notre Dame
-- **Master of Theological Studies** - University of Notre Dame
-- **Master of Divinity** - Gordon-Conwell Theological Seminary
-- **Bachelor of Arts** - North Central University
+- **Bachelor of Arts** - University of Notre Dame
+- **High School Diploma** - Columbia High School
 
 ___
-## Certifications 📜
+## Technical Skills 📜
 <details><summary>
 🧠 Deep Learning Specialization - <em>DeepLearning.AI</em> (In Progress)
 </summary></details>
