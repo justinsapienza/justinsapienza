@@ -17,7 +17,16 @@ ___
 ___
 ## Technical Skills 📜
 <details><summary>
-🧠 Deep Learning Specialization - <em>DeepLearning.AI</em> (In Progress)
+Programming Languages<br> 
+Python<br> 
+R<br>
+<details><summary>
+Data Analysis<br>   
+Pandas<br>  
+Excel<br>
+<details><summary>
+Data Visualization<br>  
+Seaborn<br> 
 </summary></details>
 
 <details><summary>
