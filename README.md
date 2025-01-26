@@ -1,8 +1,3 @@
-<code><img height="200px" src="assets/thomas-bormans-IHQHXj3jv6E-unsplash.jpg"></code>
-
-<span>Photo by <a href="https://unsplash.com/@thomasbormans?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thomas Bormans</a> on <a href="https://unsplash.com/s/photos/old-books?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-___
 📄 [Resume](https://docs.google.com/document/d/1UmIRNC1f7hvFGcvueQNtIDmdFpzIRVTcRjGHuN8i768/edit?tab=t.0)
 ___
 
