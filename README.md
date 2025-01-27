@@ -31,7 +31,5 @@ ___
 </summary></details>
 
 ___
-## Languages and Tools 🛠️
-
-___
 ## Data Science Projects 🚀
+[Data Science Portfolio](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio)
