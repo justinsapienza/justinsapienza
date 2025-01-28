@@ -16,12 +16,14 @@ ___
 <ul>
   <li>Python</li>
   <li>R</li>
+  <li>Hudl Sportscode</li>
 </ul>
 <details><summary>
 <strong>Data Analysis</strong><br>   
 <ul>
   <li>Pandas</li>
   <li>Excel</li>
+  <li>Synergy Sports</li>
 </ul>
 <details><summary>
 <strong>Data Visualization</strong><br>  
