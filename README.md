@@ -2,7 +2,7 @@
 ___
 
 ## About Me 👋
-I am a **Junior** studying **Political Science - Minor in Data Science | Business Economics | Sport, Media, and Culture** at the **University of Notre Dame** 🏰. My work bridges the gap between **data science** 📊 and the **social sciences** 📖, combining technical expertise with a deep interest in government, econonomy and culture.
+I am a **Junior** studying **Political Science - Minor in Data Science | Business Economics | Sport, Media, and Culture** at the **University of Notre Dame** 🏰. My work bridges the gap between **data science** 📊 and the **social sciences** 📖, combining technical expertise with an interest in government, econonomics and culture.
 
 ___
 ## Education 🎓
@@ -11,27 +11,25 @@ ___
 
 ___
 ## Technical Skills 📜
-<details><summary>
-<strong>Programming Languages</strong><br>
-<ul>
-  <li>Python</li>
-  <li>R</li>
-  <li>Hudl Sportscode</li>
-</ul>
-<details><summary>
-<strong>Data Analysis</strong><br>   
-<ul>
-  <li>Pandas</li>
-  <li>Excel</li>
-  <li>Synergy Sports</li>
-</ul>
-<details><summary>
-<strong>Data Visualization</strong><br>  
-<ul>
-  <li>Seaborn</li>
-</ul>
-</summary></details>
+**Programming Languages**
+- Python
+- R
+- Hudl Sportscode
+
+**Data Analysis**  
+- Pandas
+- Excel
+- Synergy Sports
+
+**Data Visualization** 
+- Seaborn
 
 ___
 ## Data Science Projects 🚀
-[Data Science Portfolio](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio)
+Refer to my [Data Science Portfolio](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio) to view the projects I am working on this semester.
+
+___
+## Goals 📋
+1. Move closer to mastery of Python, including using libraries such as Pandas and Seaborn.
+2. Build story-telling visualizations using Streamlit and other interactive visualization tools.
+3. Develop the skills to create and evaluate machine learning models to make decisions and predictions about data.
