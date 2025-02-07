@@ -12,6 +12,7 @@ ___
 ___
 ## Technical Skills 📜
 **Programming Languages**
+- Jupyter Notebook
 - Python
 - R
 - Hudl Sportscode
