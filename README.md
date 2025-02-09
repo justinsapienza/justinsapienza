@@ -2,7 +2,7 @@
 ___
 
 ## About Me 👋
-I am a **Junior** studying **Political Science - Minor in Data Science | Business Economics | Sport, Media, and Culture** at the **University of Notre Dame** 🏰. My work bridges the gap between **data science** 📊 and the **social sciences** 📖, combining technical expertise with an interest in government, econonomics and culture.
+I am a **Junior** studying **Political Science - Minor in Data Science | Business Economics | Sport, Media, and Culture** at the **University of Notre Dame** 🏰. My interests bridge the gap between **data science** 📊 and the **social sciences** 📖, combining technical expertise with a deep understanding of government, econonomics and culture.
 
 ___
 ## Education 🎓
