@@ -1,4 +1,7 @@
 📄 [Resume](https://docs.google.com/document/d/1UmIRNC1f7hvFGcvueQNtIDmdFpzIRVTcRjGHuN8i768/edit?tab=t.0)
+
+![University-of-Notre-Dame](https://github.com/user-attachments/assets/eb7201d8-6145-4056-a25b-41781e67d310)
+
 ___
 
 ## About Me 👋
