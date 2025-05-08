@@ -13,22 +13,25 @@ ___
 ___
 ## Technical Skills 📜
 **Programming Languages**
-- Jupyter Notebook
-- Python
-- R
-- Hudl Sportscode
-
+- Python | R
 **Data Analysis**  
-- Pandas
-- Excel
-- Synergy Sports
-
+- Pandas | Scikitlearn | Numpy | Sklearn
 **Data Visualization** 
-- Seaborn
+- Seaborn | Matplot
 
 ___
+## Interests 📝
+Using data to solve real-world problems!
+___
 ## Data Science Projects 🚀
-Refer to my [Data Science Portfolio](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio) to view the projects I am working on this semester.
+Refer to my [Data Science Portfolio](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio) to view my projects.
+
+**At a Glance**
+***
+[Basic Streamlit App](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/basic-streamlit-app)
+[Data Tidying](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/TidyData-Project)
+[Supervised Machine Learning](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/MLStreamlitApp)
+[Unsupervised Machine Learning](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
 
 ___
 ## Goals 📋
