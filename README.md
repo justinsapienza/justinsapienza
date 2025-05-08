@@ -4,9 +4,9 @@ ___
 ## About Me 👋
 I am a **Junior** studying **Political Science - Minor in Data Science | Business Economics | Sport, Media, and Culture** at the **University of Notre Dame** 🏰. My interests bridge the gap between **data science** 📊 and the **social sciences** 📖, combining technical expertise with a deep understanding of government, econonomics and culture.
 
-📄 [Resume](https://docs.google.com/document/d/1UmIRNC1f7hvFGcvueQNtIDmdFpzIRVTcRjGHuN8i768/edit?tab=t.0)
-✉️ Email: jsapienz@nd.edu
-🔗 LinkedIn: www.linkedin.com/in/justinsapienza
+📄 [Resume](https://docs.google.com/document/d/1UmIRNC1f7hvFGcvueQNtIDmdFpzIRVTcRjGHuN8i768/edit?tab=t.0)  
+✉️ Email: jsapienz@nd.edu  
+🔗 LinkedIn: www.linkedin.com/in/justinsapienza  
 
 ___
 ## Education 🎓
