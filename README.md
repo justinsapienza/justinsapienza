@@ -5,6 +5,9 @@ ___
 I am a **Junior** studying **Political Science - Minor in Data Science | Business Economics | Sport, Media, and Culture** at the **University of Notre Dame** 🏰. My interests bridge the gap between **data science** 📊 and the **social sciences** 📖, combining technical expertise with a deep understanding of government, econonomics and culture.
 
 📄 [Resume](https://docs.google.com/document/d/1UmIRNC1f7hvFGcvueQNtIDmdFpzIRVTcRjGHuN8i768/edit?tab=t.0)
+✉️ Email: jsapienz@nd.edu
+🔗 LinkedIn: www.linkedin.com/in/justinsapienza
+
 ___
 ## Education 🎓
 - **Bachelor of Arts** - University of Notre Dame
@@ -12,16 +15,11 @@ ___
 
 ___
 ## Technical Skills 📜
-**Programming Languages**
+**Languages**
 - Python | R
-**Data Analysis**  
-- Pandas | Scikitlearn | Numpy | Sklearn
-**Data Visualization** 
-- Seaborn | Matplot
+**Libraries**  
+- Pandas | Scikitlearn | Numpy | Sklearn | Seaborn | Matplot
 
-___
-## Interests 📝
-Using data to solve real-world problems!
 ___
 ## Data Science Projects 🚀
 Refer to my [Data Science Portfolio](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio) to view my projects.
