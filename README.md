@@ -17,7 +17,8 @@ ___
 ## Technical Skills 📜
 **Languages**
 - Python | R
-**Libraries**  
+  
+**Libraries**   
 - Pandas | Scikitlearn | Numpy | Sklearn | Seaborn | Matplot
 
 ___
@@ -36,3 +37,6 @@ ___
 1. Move closer to mastery of Python, including using libraries such as Pandas and Seaborn.
 2. Build story-telling visualizations using Streamlit and other interactive visualization tools.
 3. Develop the skills to create and evaluate machine learning models to make decisions and predictions about data.
+___
+## Interests 📝
+Building machine learning models and utilizing real-world data to solve problems!
