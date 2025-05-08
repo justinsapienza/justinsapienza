@@ -27,11 +27,11 @@ ___
 Refer to my [Data Science Portfolio](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio) to view my projects.
 
 **At a Glance**
-***
-[Basic Streamlit App](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/basic-streamlit-app)
-[Data Tidying](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/TidyData-Project)
-[Supervised Machine Learning](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/MLStreamlitApp)
-[Unsupervised Machine Learning](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
+
+- [Basic Streamlit App](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/basic-streamlit-app)
+- [Data Tidying](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/TidyData-Project)
+- [Supervised Machine Learning](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/MLStreamlitApp)
+- [Unsupervised Machine Learning](https://github.com/justinsapienza/SAPIENZA-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
 
 ___
 ## Goals 📋
